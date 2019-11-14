@@ -1,0 +1,26 @@
+{
+  "name": "@undetermined/model-builder",
+  "version": "0.0.0",
+  "description": "Model wrapper for random data generation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/undetermined-org/model-builder.git"
+  },
+  "keywords": [
+    "builder",
+    "builders",
+    "generation",
+    "test",
+    "database"
+  ],
+  "author": "undetermined-org",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/undetermined-org/model-builder/issues"
+  },
+  "homepage": "https://github.com/undetermined-org/model-builder#readme"
+}
