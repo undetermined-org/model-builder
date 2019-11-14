@@ -4,7 +4,8 @@
   "description": "Model wrapper for random data generation",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/.bin/_mocha"
+    "test": "./node_modules/.bin/_mocha",
+    "lint": "./node_modules/.bin/eslint ."
   },
   "repository": {
     "type": "git",
